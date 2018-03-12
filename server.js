@@ -55,9 +55,3 @@ function onrequest(req, res) {
 // Sources:
 //Plain-Server by Titus Wormer. Link:
 //https://github.com/cmda-be/course-17-18/tree/master/examples/plain-server
-//
-//Polar bear with happy face by "Brgfx"
-//https://www.freepik.com/free-vector/polar-bear-with-happy-face_1848839.htm#term=polar bear&page=1&position=5
-//
-//Iceberg by vvstudio
-//https://www.freepik.com/free-vector/iceberg_1075784.htm#term=iceberg&page=1&position=1
